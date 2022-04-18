@@ -5,6 +5,7 @@ import "./player.css";
 
 export default function App() {
   // referensi:https://video-react.js.org/
+  // https://react-pdf.org
   
   return (
     <div>
